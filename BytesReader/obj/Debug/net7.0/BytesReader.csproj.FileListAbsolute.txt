@@ -1,0 +1,15 @@
+/Users/thesapaskautama/Documents/Work/edmi/BytesReader/BytesReader/BytesReader/bin/Debug/net7.0/BytesReader
+/Users/thesapaskautama/Documents/Work/edmi/BytesReader/BytesReader/BytesReader/bin/Debug/net7.0/BytesReader.deps.json
+/Users/thesapaskautama/Documents/Work/edmi/BytesReader/BytesReader/BytesReader/bin/Debug/net7.0/BytesReader.runtimeconfig.json
+/Users/thesapaskautama/Documents/Work/edmi/BytesReader/BytesReader/BytesReader/bin/Debug/net7.0/BytesReader.dll
+/Users/thesapaskautama/Documents/Work/edmi/BytesReader/BytesReader/BytesReader/bin/Debug/net7.0/BytesReader.pdb
+/Users/thesapaskautama/Documents/Work/edmi/BytesReader/BytesReader/BytesReader/obj/Debug/net7.0/BytesReader.csproj.AssemblyReference.cache
+/Users/thesapaskautama/Documents/Work/edmi/BytesReader/BytesReader/BytesReader/obj/Debug/net7.0/BytesReader.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thesapaskautama/Documents/Work/edmi/BytesReader/BytesReader/BytesReader/obj/Debug/net7.0/BytesReader.AssemblyInfoInputs.cache
+/Users/thesapaskautama/Documents/Work/edmi/BytesReader/BytesReader/BytesReader/obj/Debug/net7.0/BytesReader.AssemblyInfo.cs
+/Users/thesapaskautama/Documents/Work/edmi/BytesReader/BytesReader/BytesReader/obj/Debug/net7.0/BytesReader.csproj.CoreCompileInputs.cache
+/Users/thesapaskautama/Documents/Work/edmi/BytesReader/BytesReader/BytesReader/obj/Debug/net7.0/BytesReader.dll
+/Users/thesapaskautama/Documents/Work/edmi/BytesReader/BytesReader/BytesReader/obj/Debug/net7.0/refint/BytesReader.dll
+/Users/thesapaskautama/Documents/Work/edmi/BytesReader/BytesReader/BytesReader/obj/Debug/net7.0/BytesReader.pdb
+/Users/thesapaskautama/Documents/Work/edmi/BytesReader/BytesReader/BytesReader/obj/Debug/net7.0/BytesReader.genruntimeconfig.cache
+/Users/thesapaskautama/Documents/Work/edmi/BytesReader/BytesReader/BytesReader/obj/Debug/net7.0/ref/BytesReader.dll
